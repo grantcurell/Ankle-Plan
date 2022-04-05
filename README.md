@@ -6,10 +6,12 @@
     - [Test: Perform Knee to Wall Test](#test-perform-knee-to-wall-test)
   - [3 minute SMR with lacrosse ball](#3-minute-smr-with-lacrosse-ball)
   - [2 minute weighted ankle mobility](#2-minute-weighted-ankle-mobility)
-  - [Banded Ankle Mobilization](#banded-ankle-mobilization)
+  - [Banded Ankle Mobilization (optional)](#banded-ankle-mobilization-optional)
   - [Three rounds of the following](#three-rounds-of-the-following)
     - [Plate Ankle Mobilizations](#plate-ankle-mobilizations)
     - [Practice Loading the Ankle](#practice-loading-the-ankle)
+  - [Hip Mobility](#hip-mobility)
+  - [Squat Mobility](#squat-mobility)
   - [Concepts](#concepts)
     - [Dorsiflexion vs Plantar Flexion](#dorsiflexion-vs-plantar-flexion)
     - [Talo-Crural Joint](#talo-crural-joint)
@@ -40,7 +42,7 @@ Use a lacrosse ball to perform SMR on the leg - 3 minutes per side. All the way 
 
 2 minutes each side using weight on knee ankle stretch
 
-## Banded Ankle Mobilization
+## Banded Ankle Mobilization (optional)
 
 https://youtu.be/K1fY0BwT5nE
 
@@ -57,11 +59,11 @@ https://youtu.be/K1fY0BwT5nE
 
 https://youtu.be/u55slYc-Hmo
 
-20 reps
+10 reps
 
 ### Practice Loading the Ankle
 
-10 per side
+5 per side
 
 On six inch plate
 
@@ -77,6 +79,17 @@ On six inch plate
 
 
 **NOTE**: Do not hang out at the bottom. Think about using your brain to control the joint.
+
+## Hip Mobility
+
+2 minutes per side of couch stretch
+2 minutes per side of the foldy leg stretch
+
+## Squat Mobility
+
+3 rounds of
+1 minute poll squat
+1 minute squat hold
 
 ## Concepts
 
