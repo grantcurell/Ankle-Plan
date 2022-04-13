@@ -8,10 +8,9 @@
   - [2 minute weighted ankle mobility](#2-minute-weighted-ankle-mobility)
   - [Banded Ankle Mobilization (optional)](#banded-ankle-mobilization-optional)
   - [Three rounds of the following](#three-rounds-of-the-following)
-    - [Plate Ankle Mobilizations](#plate-ankle-mobilizations)
     - [Practice Loading the Ankle](#practice-loading-the-ankle)
   - [Hip Mobility](#hip-mobility)
-  - [Squat Mobility](#squat-mobility)
+  - [Squat Mobility and Legs](#squat-mobility-and-legs)
   - [Concepts](#concepts)
     - [Dorsiflexion vs Plantar Flexion](#dorsiflexion-vs-plantar-flexion)
     - [Talo-Crural Joint](#talo-crural-joint)
@@ -55,8 +54,6 @@ https://youtu.be/K1fY0BwT5nE
 
 ## Three rounds of the following
 
-### Plate Ankle Mobilizations
-
 https://youtu.be/u55slYc-Hmo
 
 10 reps
@@ -85,11 +82,14 @@ On six inch plate
 2 minutes per side of couch stretch
 2 minutes per side of the foldy leg stretch
 
-## Squat Mobility
+## Squat Mobility and Legs
+
+5 minute poll squat
 
 3 rounds of
-1 minute poll squat
-1 minute squat hold
+15 lunges each side
+15 box step ups
+15 tempo air squats
 
 ## Concepts
 
