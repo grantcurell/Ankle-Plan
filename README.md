@@ -1,7 +1,7 @@
 # Grant's Ankle Plan
 
 - [Grant's Ankle Plan](#grants-ankle-plan)
-  - [New Ankle Plan](#new-ankle-plan)
+  - [New Ankle Plan Questions](#new-ankle-plan-questions)
   - [The Old Ankle Plan](#the-old-ankle-plan)
     - [Goal](#goal)
     - [Exercises](#exercises)
@@ -24,19 +24,28 @@
       - [What does this mean?](#what-does-this-mean)
     - [Sources](#sources)
 
-## New Ankle Plan
+## New Ankle Plan Questions
+
+1. If I understand how this is supposed to work, in dorsiflexion, my tibia should internally rotate over the talocrural joint slightly. If it doesn't, then the talus gets stuck. Are we hypothesizing this is what is happening to me?
+
+![](images/2022-04-01-18-01-51.png)
+
+2. If #1 is correct, then is the function of the banded ankle distraction to use the band to pull the talus away from the tibia/fibia creating more space in the talocrural joint, do some capsular stretching, and increase soft tissue mobility? Or are we targeting one of these things specifically?
+3. Below:
 
 When I lean on the right side it feels like my knee wants to track inward like this:
 
 ![](images/2023-08-01-23-21-05.png)
 
-It feels like there's something on the right side of my foot here that is like a wall that doesn't exist on my left foot. The area around my inferior extensor retinaculum
+It feels like there's something on the right side of my foot here that is like a wall that doesn't exist on my left foot. The area around my inferior extensor retinaculum anterior to my lateral malleolus.
 
 ![](images/2023-08-01-23-26-12.png)
 
 It feels like this muscle has to work hard to try to push in that direction:
 
 ![](images/2023-08-01-23-27-11.png)
+
+If I understand anatomically how dorsiflexion works, then the tibia should tilt slightly forward and also slightly internally rotate. Is what I am seeing above a consequence of my tibia failing to create the appropriate space which should then allow the talus to move freely? Subsequently the knee valgus is a a consequence of my lack of mobility? If I'm correct up to this point then is it then likely I am pushing the stretch too deep? I probably should go up to the point the knee valgus presents?
 
 ## The Old Ankle Plan
 
