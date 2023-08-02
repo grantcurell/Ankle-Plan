@@ -26,12 +26,8 @@
 
 ## New Ankle Plan Questions
 
-1. If I understand how this is supposed to work, in dorsiflexion, my tibia should internally rotate over the talocrural joint slightly. If it doesn't, then the talus gets stuck. Are we hypothesizing this is what is happening to me?
-
-![](images/2022-04-01-18-01-51.png)
-
-2. If #1 is correct, then is the function of the banded ankle distraction to use the band to pull the talus away from the tibia/fibia creating more space in the talocrural joint, do some capsular stretching, and increase soft tissue mobility? Or are we targeting one of these things specifically?
-3. Below:
+1. Is the function of the banded ankle distraction to use the band to pull the talus away from the tibia/fibia creating more space in the talocrural joint, do some capsular stretching, and increase soft tissue mobility? Or are we targeting one of these things specifically?
+2. Below:
 
 When I lean on the right side it feels like my knee wants to track inward like this:
 
